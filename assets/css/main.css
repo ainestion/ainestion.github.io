@@ -3881,6 +3881,18 @@ input, select, textarea {
 	body.is-mobile #main > header {
 		background-attachment: scroll;
 	}
+/* Body */
+	#body .icons {
+		font-size: 1.25em;
+	}
+
+	#body .icons a {
+		color: rgba(255, 255, 255, 0.5);
+	}
+
+	#footer .icons a:hover {
+		color: #fff;
+	}
 
 /* Footer */
 
